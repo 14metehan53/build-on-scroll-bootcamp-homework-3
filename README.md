@@ -1,4 +1,4 @@
-# Build On Scrool Bootcamp { Homework 3 }
+# Build On Scroll Bootcamp { Homework 3 }
 <h2>PayPool Contract</h2>
 <ul>
   <li>[ ] I created a DepositRecord struct.</li>
